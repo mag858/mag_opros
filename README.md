@@ -112,6 +112,6 @@
 			<center><input type="submit" value="отправить" class="btn" name="send">
 			
 			<input type="reset" value="сброс"></center>
-			<>	
+				
 				<hr>
 				<small><center>Все ваши ответы сторого конфиденсальны и не передаються третьим лицам.<center>
