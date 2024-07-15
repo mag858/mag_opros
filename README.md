@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 	<head>
 	<title>MAG industries</title>
@@ -7,12 +7,12 @@
 	<meta name="Keyboards" content="sait, MAG industries, interesting, tehnology, content, startup, 3d printer, arduino, code, knowledge, machine, auto, car, survey, be">	
 	</head>
 	
-    <body style=background-color:#D5E7FF>
+    <body style="background-color:#D5E7FF">
     
-    <p><b><a href="https://mag858.github.io/MAG-industries/">вернуться на главную</a>&emsp;</a></b></p>
+    <p><b><a href="https://mag858.github.io/MAG-industries/">вернуться на главную</a>&emsp;</b></p>
     
     <center><h1><b><font color = "#F42300">
-    MAG industries</font><b></h1></center>
+    MAG industries</font><b>
     
     
     <h2><center><b><font color = "#F3A000">future - right now</font></b></center>
@@ -28,7 +28,7 @@
 	
 	<input type="text" name="Сколько лет: " placeholder="Сколько вам лет" maxlength="3">
 	
-	<p><input type="email " name="email: "placeholder="Ваш email"></p></center>
+	<input type="textarea" name="emeil: " placeholder="ваш email"></p><p>
 	
 			<b><p>1) a. вы хотите что бы мы выпускали спортивные авто?</p>
 			<p>
@@ -114,6 +114,4 @@
 			<input type="reset" value="сброс"></center>
 			</form>		
 				<hr>
-				<small><center>Все ваши ответы сторого конфиденсальны и не передаються третьим лицам.<center></small>
-	</body>
-	</html>
+				<small><center>Все ваши ответы сторого конфиденсальны и не передаються третьим лицам.<center>
