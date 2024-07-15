@@ -28,7 +28,7 @@
 	
 	<input type="text" name="Сколько лет: " placeholder="Сколько вам лет" maxlength="3">
 	
-	<input type="textarea" name="emeil: " placeholder="ваш email"></p><p>
+	<input type="textarea" name="emeil: " placeholder="ваш email"><p>
 	
 			<b><p>1) a. вы хотите что бы мы выпускали спортивные авто?</p>
 			<p>
@@ -112,6 +112,6 @@
 			<center><input type="submit" value="отправить" class="btn" name="send">
 			
 			<input type="reset" value="сброс"></center>
-			</form>		
+			<>	
 				<hr>
 				<small><center>Все ваши ответы сторого конфиденсальны и не передаються третьим лицам.<center>
