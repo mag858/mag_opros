@@ -9,7 +9,7 @@
 	
     <body style=background-color:#D5E7FF>
     
-    <p><b><a href="file:///Users/mihail/Desktop/MAG%20industries.html">вернуться на главную</a>&emsp;</a></b></p>
+    <p><b><a href="https://mag858.github.io/MAG-industries/">вернуться на главную</a>&emsp;</a></b></p>
     
     <center><h1><b><font color = "#F42300">
     MAG industries</font><b></h1></center>
