@@ -27,7 +27,9 @@
 	<input type="text" name="Сколько лет: " placeholder="Сколько вам лет" maxlength="3">
 	
 	<p><input type="text" name="email: " placeholder="Ваш email"></p></center>
-	
+
+
+ <center><img src="sait/phone.jpg" height ="100" width = "100"></center>
 	
 	<!--начало первого вопроса-->
 	
