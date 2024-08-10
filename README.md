@@ -37,7 +37,7 @@
 	
 	<img src="sait/car2.jpg" height ="60" width = "100">&emsp;&emsp;
 	
-	<img src="sait/car3.jpg" height ="60" width = "100">&emsp;&emsp;
+	<img src="sait/car3.jpg" height ="60" width = "100">&emsp;&emsp;&emsp;
 	
 	<img src="sait/car4.jpg" height ="60" width = "100">&emsp;&emsp;
 	
