@@ -7,9 +7,9 @@
 	<meta name="Keyboards" content="sait, MAG industries, interesting, tehnology, content, startup, 3d printer, arduino, code, knowledge, machine, auto, car, survey, be">	
 	</head>
 	
-    <body style=background-color:#CCE1FE>
+    <body style="background-color:#CCE1FE">
     
-    <p><b><a href="file:///Users/mihail/Desktop/MAG%20industries.html">вернуться на главную</a>&emsp;</a></b></p>
+    <p><b><a href="file:///Users/mihail/Desktop/MAG%20industries.html">вернуться на главную</a>&emsp;</b></p>
     
     <p><center><img src="sait/logo_2.jpeg" height ="400" width = "350"></center></p>
     
@@ -26,7 +26,7 @@
 	
 	<input type="text" name="Сколько лет: " placeholder="Сколько вам лет" maxlength="3">
 	
-	<p><input type="email " name="email: "placeholder="Ваш email"></p></center>
+	<p><input type="text" name="email: " placeholder="Ваш email"></p></center>
 	
 	
 	<!--начало первого вопроса-->
@@ -48,7 +48,7 @@
 		&emsp;Спорт. авто
 		&emsp;&emsp;Авто золотого века 
 		&emsp;Седаны, хетчбэки
-	    &emsp;&emsp;Кабриолеты	      		&emsp;&emsp;Внедорожники
+	    &emsp;Кабриолеты	      		&emsp;&emsp;Внедорожники
 			</p>
 			 
 			&emsp;&emsp;&emsp;<input type="checkbox" name="1. спорт авто">
@@ -59,7 +59,7 @@
 			 
 			&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<input type="checkbox" name="1. кабриолет">
 			 
-			&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<input type="checkbox" name="1. внедорожники">
+			&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<input type="checkbox" name="1. внедорожники">
 			
 			
 		<!--конец первого вопроса-->
@@ -147,8 +147,6 @@
 			<center><input type="submit" value="отправить" class="btn" name="send">
 			
 			<input type="reset" value="сброс"></center>
-			</form>		
+				
 				<hr>
-				<small><center>Все ваши ответы сторого конфиденсальны и не передаються третьим лицам.<center></small>
-	</body>
-	</html>
+				<small><center>Все ваши ответы сторого конфиденсальны и не передаються третьим лицам.<center>
